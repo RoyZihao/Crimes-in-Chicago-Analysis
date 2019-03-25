@@ -1,2 +1,2 @@
-# ds1007
-final project
+# Crimes in Chicago Analysis
+DS-GA 1007 Final Project
